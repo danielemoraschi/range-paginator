@@ -1,0 +1,26 @@
+{
+  "author": "Daniele Moraschi <daniele.moraschi@gmail.com>",
+  "name": "range-paginator",
+  "description": "Helper functions to build a range of numeric pagination links.",
+  "version": "0.1.0",
+  "main" : "lib/range-paginator.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielemoraschi/range-paginator.git"
+  },
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "keywords" : [
+    "paginator", "pagination"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "bugs": { 
+    "url": "http://github.com/danielemoraschi/range-paginator/issues" 
+  },
+  "licenses": [{ "type": "MIT",
+    "url": "http://github.com/danielemoraschi/range-paginator/raw/master/LICENSE"
+  }]
+}
